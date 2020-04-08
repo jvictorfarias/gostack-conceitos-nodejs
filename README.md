@@ -24,4 +24,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
+<div align="center">
 Feito com 💜 by Joao Victor Farias :wave:
+</div>
